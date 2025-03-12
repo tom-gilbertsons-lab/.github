@@ -3,9 +3,9 @@
 
 ---
 
-*Interdisciplinary Neuroscience Research:*
+*Interdisciplinary? Clinical? Neuroscience Research:*
 - Psychological Tasks (EEG, Cognitive Studies)
-- FUS (Mr G, T & LI)
+- FUS (Mr G, T & LI)?
 
 ---
 ### Research
@@ -13,7 +13,7 @@
 **Psych Tasks**
 - [Restless Bandit →](https://tom-gilbertsons-lab.github.io)
 - [Patch Foraging Task](https://github.com/tom-gilbertsons-lab/patchLSD)
-  - [Play →](https://tom-gilbertsons-lab.github.io/patchLSD/))
+  - [Play →](https://tom-gilbertsons-lab.github.io/patchLSD/)
 
 **Focused Ultrasound**
 
@@ -25,7 +25,7 @@
 ---
 ## Code we use 
 
-- [HIPS-THOMAS →]([https://tom-gilbertsons-lab.github.io](https://github.com/thalamicseg/hipsthomasdocker))
+- [HIPS-THOMAS →](https://github.com/thalamicseg/hipsthomasdocker)
 
 
 
