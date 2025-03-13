@@ -1,4 +1,4 @@
-# Tom Gilbertson's Lab | <small> University of Dundee
+# Tom Gilbertson's Lab | University of Dundee
 [Lab Website →](https://tom-gilbertsons-lab.github.io)
 
 ---
