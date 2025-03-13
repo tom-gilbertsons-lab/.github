@@ -3,25 +3,18 @@
 
 ---
 
-*Interdisciplinary? Clinical? Neuroscience Research:*
-- Psychological Tasks (EEG, Cognitive Studies)
-- FUS (Mr G, T & LI)?
+*Systems & circuit neuroscience of movement disorders*
+- Computational modelling of decision making 
+- Focused ultrasound (novel targets)
 
 ---
 ### Research
 
 **Psych Tasks**
-- [Restless Bandit →](https://tom-gilbertsons-lab.github.io)
+- [Restless Bandit](https://github.com/tom-gilbertsons-lab/thal-val)
+  - [Play →](https://tom-gilbertsons-lab.github.io/thal-val/)
 - [Patch Foraging Task](https://github.com/tom-gilbertsons-lab/patchLSD)
   - [Play →](https://tom-gilbertsons-lab.github.io/patchLSD/)
-
-**Focused Ultrasound**
-
-- ?
-
-**MRgFUS Thalamotomy**
-
-- DTI/ Thomas? 
 ---
 ## Code we use 
 
