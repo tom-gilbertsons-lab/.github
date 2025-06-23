@@ -28,7 +28,13 @@
 - [Psychtoolbox →](http://psychtoolbox.org)
 
 
+### Outreach
 
+- [Sonic Surgeon](https://github.com/tom-gilbertsons-lab/sonic-surgeon)
+  - [Play →](https://tom-gilbertsons-lab.github.io/sonic-surgeon/)
+
+    
+---
 
 © 2025 Tom Gilbertson's Lab
 
