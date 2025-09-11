@@ -10,6 +10,10 @@
 ---
 ### Research
 
+**Papers**
+-[Focused ultrasound neuromodulation of mediodorsal thalamus disrupts decision flexibility during reward learning](https://www.biorxiv.org/content/10.1101/2025.06.03.657634v1)
+-[Impaired value-based decision-making in Parkinson’s Disease Apathy](https://www.biorxiv.org/content/10.1101/2023.07.27.550708v1)
+
 
 **Psych Tasks**
 - [Restless Bandit](https://github.com/tom-gilbertsons-lab/thal-val)
@@ -26,6 +30,7 @@
 - [Freesurfer →](https://surfer.nmr.mgh.harvard.edu)
 - [k-Wave →](http://www.k-wave.org/documentation.php)
 - [Psychtoolbox →](http://psychtoolbox.org)
+- [FSL](https://fsl.fmrib.ox.ac.uk)
 
 
 ### Outreach
