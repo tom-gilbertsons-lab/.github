@@ -15,8 +15,8 @@
 - [Impaired value-based decision-making in Parkinson’s Disease Apathy](https://www.biorxiv.org/content/10.1101/2023.07.27.550708v1)
 
 **Computational Neuroscience**
-  **Behavioural data Modelling**
-  - [Restless Bandit Modelling](https://github.com/tom-gilbertsons-lab/bandit-data-modelling)
+  - **Behavioural data Modelling**
+    - [Restless Bandit Modelling](https://github.com/tom-gilbertsons-lab/bandit-data-modelling)
 
   **Psych Tasks**
   - [Restless Bandit](https://github.com/tom-gilbertsons-lab/thal-val)
@@ -37,11 +37,11 @@
 
 
 ### Public Engagement
--[Royal Society Talk](https://www.youtube.com/watch?v=F3lKjhDO4fY)
+- [Royal Society Talk](https://www.youtube.com/watch?v=F3lKjhDO4fY)
 - [Sonic Surgeon](https://github.com/tom-gilbertsons-lab/sonic-surgeon)
   - [Play →](https://tom-gilbertsons-lab.github.io/sonic-surgeon/)
--[MRgFUS Thalamotomy](https://www.youtube.com/watch?v=k9AKF6ntTfU)
--[Incisionless Neurosurgery](https://www.youtube.com/watch?v=pITUxJfuzLw)
+- [MRgFUS Thalamotomy](https://www.youtube.com/watch?v=k9AKF6ntTfU)
+- [Incisionless Neurosurgery](https://www.youtube.com/watch?v=pITUxJfuzLw)
 ---
 
 © 2025 Tom Gilbertson's Lab
