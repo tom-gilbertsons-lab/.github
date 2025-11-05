@@ -18,11 +18,11 @@
   - **Behavioural data Modelling**
     - [Restless Bandit Modelling](https://github.com/tom-gilbertsons-lab/bandit-data-modelling)
 
-  **Psych Tasks**
-  - [Restless Bandit](https://github.com/tom-gilbertsons-lab/thal-val)
-    - [Play →](https://tom-gilbertsons-lab.github.io/thal-val/)
-  - [Patch Foraging Task](https://github.com/tom-gilbertsons-lab/patchLSD)
-    - [Play →](https://tom-gilbertsons-lab.github.io/patchLSD/)
+  - **Psych Tasks**
+    - [Restless Bandit](https://github.com/tom-gilbertsons-lab/thal-val)
+      - [Play →](https://tom-gilbertsons-lab.github.io/thal-val/)
+    - [Patch Foraging Task](https://github.com/tom-gilbertsons-lab/patchLSD)
+      - [Play →](https://tom-gilbertsons-lab.github.io/patchLSD/)
       
 ---
 
