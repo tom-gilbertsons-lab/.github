@@ -16,7 +16,7 @@
 
 **Computational Neuroscience**
   - **Behavioural data Modelling**
-    - [Restless Bandit Modelling (oedema)](https://github.com/tom-gilbertsons-lab/bandit-data-modelling/tree/oedema_md))
+    - [Restless Bandit Modelling: Oedema](https://github.com/tom-gilbertsons-lab/bandit-data-modelling/tree/oedema_md)
 
   - **Psych Tasks**
     - [Restless Bandit](https://github.com/tom-gilbertsons-lab/thal-val)
