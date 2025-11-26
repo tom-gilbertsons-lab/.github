@@ -34,6 +34,7 @@
 - [k-Wave →](http://www.k-wave.org/documentation.php)
 - [Psychtoolbox →](http://psychtoolbox.org)
 - [FSL](https://fsl.fmrib.ox.ac.uk)
+- [ANTs](https://github.com/ANTsX/ANTs)
 
 
 ### Public Engagement
